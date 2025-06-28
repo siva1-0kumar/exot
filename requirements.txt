@@ -1,0 +1,5 @@
+aiohttp
+websockets
+python-dotenv
+pydub
+pyaudio
